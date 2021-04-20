@@ -55,6 +55,9 @@
 <img    align="center" height="50" width="60" target='_blank'
         style="max-width: 100%;"
         src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg'>
+        
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K16bits&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K16bits&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **K16bits/K16bits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
