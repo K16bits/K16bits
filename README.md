@@ -40,7 +40,7 @@
         src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg'>
 <img    align="center" height="30" width="40" target="_blank"
         style="max-width: 100%;"
-        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg' >  
+        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg' >  
         
 ## Databases
 <img    align="center" height="50" width="60" target='_blank'
