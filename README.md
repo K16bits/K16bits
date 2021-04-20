@@ -19,37 +19,36 @@
 ## My Skills
 <img    align="center" height="30" width="40" target='_blank'
         style="max-width: 100%;"
-        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg' >
+        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg'>
 <img    align="center" height="30" width="40" target='_blank'
         style="max-width: 100%;"
-        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg' >
+        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg'>
 <img    align="center" height="30" width="40" target='_blank'
         style="max-width: 100%;"
-        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg' >  
+        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg'>
 <img    align="center" height="30" width="40" target='_blank'
         style="max-width: 100%;"
-        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' >      
+        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg'>
 <img    align="center" height="30" width="40" target='_blank'
         style="max-width: 100%;"
-        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg' >
+        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg'>
 <img    align="center" height="30" width="40" target='_blank'
         style="max-width: 100%;"
-        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' >
+        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg'>
 <img    align="center" height="30" width="40" target='_blank'
         style="max-width: 100%;"
-        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg' >  
-<img    align="center" height="30" width="40" target='_blank'
+        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg'>
+<img    align="center" height="30" width="40" target="_blank"
         style="max-width: 100%;"
         src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg' >  
         
 ## Databases
 <img    align="center" height="50" width="60" target='_blank'
         style="max-width: 100%;"
-        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg' >
+        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg'>
 <img    align="center" height="50" width="60" target='_blank'
         style="max-width: 100%;"
-        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg' >    
-
+        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg'>
 <!--
 **K16bits/K16bits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
