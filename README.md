@@ -1,7 +1,13 @@
 ### Hi there 👋
-
+##  Olá, sou o Cristiano Lima :cowboy_hat_face:
 <!--
 **K16bits/K16bits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a href="https://www.linkedin.com/in/cristiano-lima-3398531b7/">
+  <img height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg'>
+</a>
+
+
 
 Here are some ideas to get you started:
 
