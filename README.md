@@ -1,5 +1,7 @@
 ## Hi there 👋
 ##  Olá, sou o Cristiano Lima :cowboy_hat_face:
+- Meus projetos são focado em desenvolvimento web e mobile usando JS + Nodejs
+- Estudando por hobby: Bots e Web scraping usando Python 
 
 
 ## Social Media :iphone:
@@ -38,9 +40,12 @@
 <img    align="center" height="30" width="40" target='_blank'
         style="max-width: 100%;"
         src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg'>
+<img    align="center" height="30" width="40" target='_blank'
+        style="max-width: 100%;"
+        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg'>
 <img    align="center" height="30" width="40" target="_blank"
         style="max-width: 100%;"
-        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg' >  
+        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg' >
         
 ## Databases
 <img    align="center" height="50" width="60" target='_blank'
