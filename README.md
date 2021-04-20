@@ -1,13 +1,30 @@
-### Hi there 👋
+## Hi there 👋
 ##  Olá, sou o Cristiano Lima :cowboy_hat_face:
-<!--
-**K16bits/K16bits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+## Social Media :iphone:
 <a href="https://www.linkedin.com/in/cristiano-lima-3398531b7/">
-  <img height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg'>
+        <img align="center" height="30" width="40"
+        style="max-width: 100%;"
+        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg'
+        >
+</a>
+<a href="https://twitter.com/HiroBlackCrow">
+        <img align="center" height="30" width="40"
+        style="max-width: 100%;"
+        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg'
+        >
 </a>
 
+## My Skills
+<img height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg' >
+<img height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg' >
 
+
+
+
+<!--
+**K16bits/K16bits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
