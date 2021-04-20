@@ -1,6 +1,7 @@
 ## Hi there 👋
 ##  Olá, sou o Cristiano Lima :cowboy_hat_face:
-- Meus projetos são focado em desenvolvimento web e mobile usando JS + Nodejs
+- Estudante do curso Ciência da Computação da Universidade Federal de Roraima (UFRR)
+- Meus projetos são focado em desenvolvimento Web e Mobile usando JS + Nodejs
 - Estudando por hobby: Bots e Web scraping usando Python 
 
 
