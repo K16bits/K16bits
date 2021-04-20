@@ -17,11 +17,18 @@
 </a>
 
 ## My Skills
-<img height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg' >
-<img height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg' >
+<img    align="center" height="30" width="40"
+        style="max-width: 100%;"
+        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg' >
+<img 
+        align="center"
+        style="max-width: 100%;"
+        height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg' >
 
-
-
+<img 
+        align="center"
+        style="max-width: 100%;"
+        height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg' >
 
 <!--
 **K16bits/K16bits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
