@@ -49,10 +49,10 @@
         src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg' >
         
 ## Databases
-<img herf="#" align="center" height="50" width="60" target='_blank'
+<img align="center" height="50" width="60"
         style="max-width: 100%;"
         src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg'>
-<img herf="#"  align="center" height="50" width="60" target='_blank'
+<img align="center" height="50" width="60" 
         style="max-width: 100%;"
         src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg'>
         
