@@ -12,12 +12,7 @@
         src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg'
         >
 </a>
-<a href="https://twitter.com/HiroBlackCrow">
-        <img align="center" height="30" width="40" target='_blank'
-        style="max-width: 100%;"
-        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg'
-        >
-</a>
+
 
 ## My Skills
 <p>
