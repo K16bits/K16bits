@@ -2,6 +2,7 @@
 ##  Olá, sou o Cristiano Lima :cowboy_hat_face:
 - Estudante do curso Ciência da Computação da Universidade Federal de Roraima (UFRR)
 - Meus projetos são focados em desenvolvimento Web e Mobile usando JS + Nodejs
+- Atualmente trabalhando com Spring Boot
 - Estudando por hobby: Bots e Web scraping usando Python 
 
 
@@ -26,6 +27,8 @@
         <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
         <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
         <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+        <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+        <img alt="SpringBoot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
 </p>
         
 ## Databases
